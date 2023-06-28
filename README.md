@@ -35,6 +35,14 @@ Below is the image of game when completed
 
 No special installation requirements. Simply visit https://scratch.mit.edu/projects/868076415 to use the application. Please note, since the game uses over 500 sprites, you may need to reload the page.
 
+To load the application from source code:
+1. Go to ``` /assets/code ``` and download the sb3 files to your computer
+2. Open the Scratch Studio
+3. Click on ``` File-->Load form your computer ``` 
+4. Navigate to the sb3 files that you downloaded from step 1
+5. Click ``` Yes ``` if you get a prompt about replacing contents of the project.
+
+
 
 back to [Table of Contents](#table-of-contents)
 
